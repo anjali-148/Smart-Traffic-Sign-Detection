@@ -1,0 +1,292 @@
+[
+  {
+    "index": 0,
+    "class_id": "0",
+    "name": "Give way"
+  },
+  {
+    "index": 1,
+    "class_id": "1",
+    "name": "No entry"
+  },
+  {
+    "index": 2,
+    "class_id": "2",
+    "name": "One-way traffic"
+  },
+  {
+    "index": 3,
+    "class_id": "3",
+    "name": "One-way traffic"
+  },
+  {
+    "index": 4,
+    "class_id": "4",
+    "name": "No vehicles in both directions"
+  },
+  {
+    "index": 5,
+    "class_id": "5",
+    "name": "No entry for cycles"
+  },
+  {
+    "index": 6,
+    "class_id": "6",
+    "name": "No entry for goods vehicles"
+  },
+  {
+    "index": 7,
+    "class_id": "7",
+    "name": "No entry for pedestrians"
+  },
+  {
+    "index": 8,
+    "class_id": "8",
+    "name": "No entry for bullock carts"
+  },
+  {
+    "index": 9,
+    "class_id": "9",
+    "name": "No entry for hand carts"
+  },
+  {
+    "index": 10,
+    "class_id": "10",
+    "name": "No entry for motor vehicles"
+  },
+  {
+    "index": 11,
+    "class_id": "11",
+    "name": "Height limit"
+  },
+  {
+    "index": 12,
+    "class_id": "12",
+    "name": "Weight limit"
+  },
+  {
+    "index": 13,
+    "class_id": "13",
+    "name": "Axle weight limit"
+  },
+  {
+    "index": 14,
+    "class_id": "14",
+    "name": "Length limit"
+  },
+  {
+    "index": 15,
+    "class_id": "15",
+    "name": "No left turn"
+  },
+  {
+    "index": 16,
+    "class_id": "16",
+    "name": "No right turn"
+  },
+  {
+    "index": 17,
+    "class_id": "17",
+    "name": "No overtaking"
+  },
+  {
+    "index": 18,
+    "class_id": "18",
+    "name": "Maximum speed limit (90 km/h)"
+  },
+  {
+    "index": 19,
+    "class_id": "19",
+    "name": "Maximum speed limit (110 km/h)"
+  },
+  {
+    "index": 20,
+    "class_id": "20",
+    "name": "Horn prohibited"
+  },
+  {
+    "index": 21,
+    "class_id": "21",
+    "name": "No parking"
+  },
+  {
+    "index": 22,
+    "class_id": "22",
+    "name": "No stopping"
+  },
+  {
+    "index": 23,
+    "class_id": "23",
+    "name": "Turn left"
+  },
+  {
+    "index": 24,
+    "class_id": "24",
+    "name": "Turn right"
+  },
+  {
+    "index": 25,
+    "class_id": "25",
+    "name": "Steep descent"
+  },
+  {
+    "index": 26,
+    "class_id": "26",
+    "name": "Steep ascent"
+  },
+  {
+    "index": 27,
+    "class_id": "27",
+    "name": "Narrow road"
+  },
+  {
+    "index": 28,
+    "class_id": "28",
+    "name": "Narrow bridge"
+  },
+  {
+    "index": 29,
+    "class_id": "29",
+    "name": "Unprotected quay"
+  },
+  {
+    "index": 30,
+    "class_id": "30",
+    "name": "Road hump"
+  },
+  {
+    "index": 31,
+    "class_id": "31",
+    "name": "Dip"
+  },
+  {
+    "index": 32,
+    "class_id": "32",
+    "name": "Loose gravel"
+  },
+  {
+    "index": 33,
+    "class_id": "33",
+    "name": "Falling rocks"
+  },
+  {
+    "index": 34,
+    "class_id": "34",
+    "name": "Cattle"
+  },
+  {
+    "index": 35,
+    "class_id": "35",
+    "name": "Crossroads"
+  },
+  {
+    "index": 36,
+    "class_id": "36",
+    "name": "Side road junction"
+  },
+  {
+    "index": 37,
+    "class_id": "37",
+    "name": "Side road junction"
+  },
+  {
+    "index": 38,
+    "class_id": "38",
+    "name": "Oblique side road junction"
+  },
+  {
+    "index": 39,
+    "class_id": "40",
+    "name": "T-junction"
+  },
+  {
+    "index": 40,
+    "class_id": "41",
+    "name": "Y-junction"
+  },
+  {
+    "index": 41,
+    "class_id": "42",
+    "name": "Staggered side road junction"
+  },
+  {
+    "index": 42,
+    "class_id": "43",
+    "name": "Staggered side road junction"
+  },
+  {
+    "index": 43,
+    "class_id": "44",
+    "name": "Roundabout"
+  },
+  {
+    "index": 44,
+    "class_id": "45",
+    "name": "Guarded level crossing ahead"
+  },
+  {
+    "index": 45,
+    "class_id": "46",
+    "name": "Unguarded level crossing ahead"
+  },
+  {
+    "index": 46,
+    "class_id": "47",
+    "name": "Level crossing countdown marker"
+  },
+  {
+    "index": 47,
+    "class_id": "48",
+    "name": "Level crossing countdown marker"
+  },
+  {
+    "index": 48,
+    "class_id": "49",
+    "name": "Level crossing countdown marker"
+  },
+  {
+    "index": 49,
+    "class_id": "50",
+    "name": "Level crossing countdown marker"
+  },
+  {
+    "index": 50,
+    "class_id": "51",
+    "name": "Parking"
+  },
+  {
+    "index": 51,
+    "class_id": "52",
+    "name": "Bus stop"
+  },
+  {
+    "index": 52,
+    "class_id": "53",
+    "name": "First aid post"
+  },
+  {
+    "index": 53,
+    "class_id": "54",
+    "name": "Telephone"
+  },
+  {
+    "index": 54,
+    "class_id": "55",
+    "name": "Filling station"
+  },
+  {
+    "index": 55,
+    "class_id": "56",
+    "name": "Hotel"
+  },
+  {
+    "index": 56,
+    "class_id": "57",
+    "name": "Restaurant"
+  },
+  {
+    "index": 57,
+    "class_id": "58",
+    "name": "Refreshments"
+  }
+]

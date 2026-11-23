@@ -1,0 +1,13 @@
+# Local Python environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Dataset: not required for deployment
+data/
+
+# Private Streamlit secrets
+.streamlit/secrets.toml

@@ -1,0 +1,64 @@
+                                     precision    recall  f1-score   support
+
+                        0: Give way       0.90      0.93      0.92        41
+                        1: No entry       0.93      0.95      0.94        41
+                 2: One-way traffic       0.52      0.32      0.39        41
+                 3: One-way traffic       0.51      0.61      0.56        41
+  4: No vehicles in both directions       0.91      1.00      0.95        41
+             5: No entry for cycles       0.98      0.86      0.92        65
+     6: No entry for goods vehicles       0.93      0.95      0.94        41
+        7: No entry for pedestrians       0.95      0.95      0.95        41
+      8: No entry for bullock carts       0.94      0.99      0.96       121
+         9: No entry for hand carts       0.95      0.93      0.94        41
+    10: No entry for motor vehicles       0.97      0.95      0.96        41
+                   11: Height limit       1.00      0.98      0.99        41
+                   12: Weight limit       0.95      0.95      0.95        41
+              13: Axle weight limit       1.00      0.93      0.96        41
+                   14: Length limit       1.00      0.95      0.97        41
+                   15: No left turn       0.97      0.83      0.89        41
+                  16: No right turn       0.88      0.85      0.86        41
+                  17: No overtaking       0.89      0.98      0.93        41
+  18: Maximum speed limit (90 km/h)       0.93      0.93      0.93        41
+ 19: Maximum speed limit (110 km/h)       0.97      0.95      0.96        41
+                20: Horn prohibited       0.68      0.98      0.80       121
+                     21: No parking       0.95      0.88      0.91        41
+                    22: No stopping       0.94      0.78      0.85        41
+                      23: Turn left       0.53      0.24      0.33        41
+                     24: Turn right       0.49      0.71      0.58        41
+                  25: Steep descent       0.70      0.56      0.62        41
+                   26: Steep ascent       0.60      0.73      0.66        41
+                    27: Narrow road       0.86      0.90      0.88        41
+                  28: Narrow bridge       0.83      0.95      0.89        41
+               29: Unprotected quay       0.92      0.83      0.87        41
+                      30: Road hump       0.93      0.90      0.91        41
+                            31: Dip       0.93      0.95      0.94        41
+                   32: Loose gravel       0.92      0.85      0.89        41
+                  33: Falling rocks       1.00      0.93      0.96        41
+                         34: Cattle       0.93      0.95      0.94        41
+                     35: Crossroads       0.93      0.93      0.93        41
+             36: Side road junction       0.55      0.59      0.56        41
+             37: Side road junction       0.51      0.46      0.49        41
+     38: Oblique side road junction       0.82      0.76      0.78        41
+                     40: T-junction       0.93      0.93      0.93        41
+                     41: Y-junction       0.90      0.85      0.88        41
+   42: Staggered side road junction       0.41      0.51      0.46        41
+   43: Staggered side road junction       0.35      0.20      0.25        41
+                     44: Roundabout       0.98      0.98      0.98        41
+   45: Guarded level crossing ahead       1.00      0.93      0.96        41
+ 46: Unguarded level crossing ahead       1.00      0.95      0.97        41
+47: Level crossing countdown marker       0.61      0.48      0.54        29
+48: Level crossing countdown marker       0.65      0.71      0.68        34
+49: Level crossing countdown marker       0.00      0.00      0.00        12
+50: Level crossing countdown marker       0.72      1.00      0.84        39
+                        51: Parking       0.99      0.99      0.99       120
+                       52: Bus stop       0.93      0.86      0.89        44
+                 53: First aid post       0.98      0.99      0.98       122
+                      54: Telephone       0.99      0.96      0.97       121
+                55: Filling station       0.99      0.98      0.98       124
+                          56: Hotel       0.86      0.95      0.90        40
+                     57: Restaurant       1.00      0.93      0.96        41
+                   58: Refreshments       0.98      1.00      0.99        40
+
+                           accuracy                           0.86      2836
+                          macro avg       0.83      0.82      0.82      2836
+                       weighted avg       0.86      0.86      0.86      2836

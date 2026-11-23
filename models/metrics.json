@@ -1,0 +1,9 @@
+{
+  "test_accuracy": 0.861777126789093,
+  "test_loss": 0.37233665585517883,
+  "train_images": 8903,
+  "validation_images": 2232,
+  "test_images": 2836,
+  "classes": 58,
+  "parameters": 142826
+}
