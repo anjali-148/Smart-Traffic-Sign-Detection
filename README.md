@@ -1,4 +1,4 @@
-# Indian Traffic Sign Recognition — small CNN
+# Indian Traffic Sign Recognition — Small CNN
 
 Updated for your dataset: Images/0, Images/1, ... and traffic_sign.csv.
 The actual dataset and a trained model are NOT included. Use the dataset you already downloaded.
